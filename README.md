@@ -3,8 +3,8 @@
 This project is a **controlled ransomware simulation** created strictly for
 educational purposes as part of a cybersecurity training/induction exercise.
 
-It demonstrates the **basic workflow of ransomware**—file enumeration,
-encryption, ransom note creation, and recovery—without any real-world
+It demonstrates the **basic workflow of ransomware** file enumeration,
+encryption, ransom note creation, and recovery without any real-world
 malicious behavior.
 
 ## Key Characteristics
